@@ -1,0 +1,13 @@
+server:
+    address: localhost
+    port: 8989
+    contextPath: /SpringMongoDbApp
+  
+spring:
+  application:
+    name: SpringMongoDbApp    
+  data: 
+    mongo:
+      database: admin
+      host: localhost
+      port: 27017
