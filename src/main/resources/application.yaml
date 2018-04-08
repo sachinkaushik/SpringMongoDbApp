@@ -7,7 +7,7 @@ spring:
   application:
     name: SpringMongoDbApp    
   data: 
-    mongo:
-      database: admin
+    mongodb:
+      database: dev
       host: localhost
       port: 27017
